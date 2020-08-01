@@ -1,6 +1,6 @@
 /*   
-  Project by Zua 
-  https://github.com/thatziv/webhook 
+  Project by KrAyX Maximum 
+  https://github.com/maximumdarkness1/Project-Maximum-Webhook 
 */
 $(function(){
     $('#btn').click(function(){
